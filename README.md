@@ -1,8 +1,11 @@
 # Lifestyle
 
 <img width="94" height="95" alt="driver" src="https://github.com/user-attachments/assets/3086df83-30ed-42c2-b175-e8191a45d348" />
+
 <img width="95" height="94" alt="drinklover" src="https://github.com/user-attachments/assets/451c86d0-ec07-4ea4-85a4-7802e3c31a3c" />
+
 <img width="95" height="94" alt="departamento" src="https://github.com/user-attachments/assets/a07b0ed6-e384-4660-8459-f31895ebbb6b" />
+
 <img width="94" height="94" alt="delivery" src="https://github.com/user-attachments/assets/2dbb4462-6079-440a-be4d-085d9a795790" />
 <img width="94" height="94" alt="cult" src="https://github.com/user-attachments/assets/57b2bff3-85ec-4e09-850f-0462a63d287c" />
 <img width="94" height="94" alt="conectado" src="https://github.com/user-attachments/assets/d815a5b2-71bb-4828-aed7-1db5c67e3664" />
